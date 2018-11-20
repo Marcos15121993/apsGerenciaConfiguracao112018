@@ -1,0 +1,19 @@
+1652826 - MARCOS WILLIAN GARCIA DE BARROS 
+1726609 - Eugenio Edson
+
+1 -  Defina cada conceito a seguir:
+        
+	* Integração contínua
+		Integração Contínua é o processo que permite integrar frequentemente alterações parciais em desenvolvimento ao código principal, sem intervenções manuais e com garantias de que funcionem como esperado para um trabalho conjunto e contínuo
+
+	* Entrega contínua
+		Entrega Contínua é um processo complementar ao CI em que são realizados testes de aceitação em ambientes pré-produção e realizadas preparações finais para que um novo código esteja apto para seguir para produção após aprovação
+	
+	* Implantação contínua
+		Esta prática é o próximo passo da Entrega contínua. Assim que o programador julga pronto seu código e aciona a solicitação para deploy, são realizadas todas validações previstas nas metodologias anteriores e, se não houverem falhas, o novo código é disponibilizado automaticamente em ambiente de produção.
+		
+2 - Explique as diferenças entre (i) integração, (ii) entrega e (iii)  implantação contínua.
+		A prática de CI (Continuos Integration ou Integração Continua) é mais importante prática DevOps e a primeira a ser adotada. Ela permite aos desenvolvedores validarem seus códigos automaticamente para garantir de que estejam livres de erros e que não conflitem com o restante do código da aplicação.
+		Na Integração Continua todas as validações e compilações são feitas em ambiente de desenvolvimento com objetivo de otimizar os processos de criação de softwares. O potencial em criação ainda não pode ser experimentado pelos usuários então o valor agregado ainda não é alcançado pelos clientes. Para um novo release entrar em produção é necessário realizar testes de aceitação que são complementares as validações feitas na fase de CI e fundamentais para determinar se um software está apto para seguir em produção. No entanto, o deploy em ambiente de produção não é automático na Entrega Contínua, sendo uma decisão de negócio a ser aprovada previamente.
+		Esta prática é o próximo passo da Entrega contínua. Assim que o programador julga pronto seu código e aciona a solicitação para deploy, são realizadas todas validações previstas nas metodologias anteriores e, se não houverem falhas, o novo código é disponibilizado automaticamente em ambiente de produção.
+		A Implantação contínua não se aplica a toda empresa. Foi pensada principalmente, mas não exclusivamente, para o desenvolvimento de aplicações para web. 

@@ -1,0 +1,15 @@
+1) Quais os benefícios da Gerência de configuração em ambientes modernos de desenvolvimento de software ?
+ podemos listar: (1) ganho de produtividade e eficiência; (2) diminuição do retrabalho e dos erros; (3) aumento da disciplina no processo de desenvolvimento; (4) aumento da memória organizacional; (5) acesso às informações qualitativas e quantitativas referentes ao processo de desenvolvimento, como por exemplo, medida de esforço para efetuar uma alteração e freqüência de modificações por componente; (6) possibilidade de estabelecer uma trilha de auditoria indicando por que, quando e por quem um artefato foi alterado; (7) auxílio à gerência de projetos e (8) garantia de ambiente estável no qual o produto deve ser desenvolvido.
+
+2) Liste os itens que as são passíveis de gerenciamento pelas ferramentas atuais.
+	baseline ou release sao alguns dos itens que sao passíveis de gerenciamento.
+
+3) Na sua opinião, quais itens gerenciáveis não têm apoio de ferramentas atuais, ou é considerado difícil de rastrear.
+Os itens de manutenção corretiva e manutencao evolutiva em uma "manutencao caotica"
+
+4) Análise a relação entre o número de modificações de um software e a qualidade do mesmo.
+Não existe correlação entre o numero de modificações e a qualidade, um requisito bem definido pode gerar um numero de midificaçoes menores e com boa qualidade.
+
+
+5) Como vocês analisam o futuro da área de gerência de configuração de software?
+a Area de gerancia de configuração tende a continuar indispensavel en qualquer area do desenvolvimento.

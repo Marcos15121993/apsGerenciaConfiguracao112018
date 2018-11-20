@@ -1,0 +1,11 @@
+1652826 - MARCOS WILLIAN GARCIA DE BARROS 
+
+1 - 
+O pipeline de implantacao é um padrao eficaz para fazer com que desenvolvedores, testadores e pessoal de operação trabalhem juntos de maneira eficiente, é em essencia, uma implementação automatizada do processo de compilar todas as partes.
+Baseia-se no processo de integração continua sendo essesncialmente o principio de integração continua levado a sua conclusao logica.
+
+2-
+Um anti-padrão é um padrão de projeto de software que pode ser comumente usado mas é ineficiente e/ou contra-produtivo em prática.
+Um bom exemplo é quando se mantem uma parte de um sistema que não tem mais uso, na esperança de um dia talvez ser usado, tambem conhecido como Ancora do barco.
+
+
